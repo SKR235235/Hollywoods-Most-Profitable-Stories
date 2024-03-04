@@ -25,30 +25,20 @@ Microsoft Excel is great for projects because it easily reads CSV files. It help
 ## **Getting Started**
 You will need a PC with Microsoft Windows Installed as Microsoft Power BI is only compatible with Window's PC's.
 
-Install R Studio:
 
-Head to the official R Studio website (https://rstudio.com/products/rstudio/download/).
-Download and install R Studio.
-Launch R Studio once the installation is complete.
-
-Install R Packages:
-Open R Studio and install necessary packages by running the following commands in the console:
-
-Copy code:
+Install R Studio, go to their website at rstudio.com/products/rstudio/download/ and download the software. Once downloaded, install it, and open R Studio. In R Studio, install important packages by typing and running these commands in the console:
 
 install.packages("tidyverse")
+
 install.packages("ggplot2")
 
-Install Microsoft Power BI:
-
-Navigate to the Microsoft Power BI website (https://powerbi.microsoft.com/).
-Download and install Power BI Desktop.
-Launch Power BI Desktop after installation.
+For Microsoft Power BI, visit powerbi.microsoft.com, download and install Power BI Desktop, then launch it after installation.
 
 
 ## **Data Sources**
 
 Source: InformationIsBeautiful.net
+
 Download data from this link: ​https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv
 
 ## **Power BI Dashboard**
