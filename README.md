@@ -22,23 +22,28 @@ Microsoft Power BI is a user-friendly business analytics tool, facilitating data
 Microsoft Excel is great for projects because it easily reads CSV files. It helps organize, and show data in tables, making it super useful for things like reading data in different areas.
 
 
-
-
-
-
-
-
-
-
-
-
 ## **Getting Started**
+You will need a PC with Microsoft Windows Installed as Microsoft Power BI is only compatible with Window's PC's.
 
-Explain how to set up and run your project on a local machine. Include any dependencies that need to be installed and provide step-by-step instructions.
+Install R Studio:
 
-bashCopy code
+Head to the official R Studio website (https://rstudio.com/products/rstudio/download/).
+Download and install R Studio.
+Launch R Studio once the installation is complete.
 
-\# Example of installation commands $ git clone https://github.com/your-username/your-project.git $ cd your-project $ Rscript install\_dependencies.R 
+Install R Packages:
+Open R Studio and install necessary packages by running the following commands in the console:
+
+Copy code:
+
+install.packages("tidyverse")
+install.packages("ggplot2")
+
+Install Microsoft Power BI:
+
+Navigate to the Microsoft Power BI website (https://powerbi.microsoft.com/).
+Download and install Power BI Desktop.
+Launch Power BI Desktop after installation.
 
 ## **Usage**
 
