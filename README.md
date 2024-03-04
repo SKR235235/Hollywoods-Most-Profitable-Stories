@@ -56,11 +56,3 @@ Download data from this link: ​https://public.tableau.com/app/sample-data/Holl
 The Power BI Dashboard for Hollywood Movie Trends offers a comprehensive visual overview. It features elements such as genre-wise average Rotten Tomatoes ratings, an annual trend analysis of movie production, audience scores for individual films, studio-wise profitability, and global box office performance by genre. Additionally, extra cards highlight key metrics like maximum profitability and highest Rotten Tomatoes scores, providing an interactive and insightful exploration of Hollywood movie trends.
 
 The Hollywood Movie Trends Power BI Dashboard combines insightful data with a modern design featuring a sleek black background. Subtle drop shadows add depth, creating a sophisticated and engaging interface. This visually appealing setup ensures an immersive exploration of Hollywood's cinematic landscape, seamlessly blending style with substance.
-
-
-
-
-## **Contact**
-
-Provide contact information or ways for users to reach out if they have questions or feedback.
-
