@@ -4,7 +4,7 @@
 
 To analyze the performance of Hollywood movies released 2007-2012.
 
-## Project Description
+## Project Overview 🌐
 
 Exploring the world of Hollywood movies from 2007 to 2012 with our project, "Hollywood Movie Trends Analysis." We use R Programming and Microsoft Power BI to dive deep into the movies of that time, uncovering interesting insights and trends.
 
