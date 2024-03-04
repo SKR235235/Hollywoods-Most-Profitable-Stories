@@ -1,14 +1,13 @@
 # Hollywood
 
-**Project Title**
 
 A concise and descriptive title that reflects the main purpose or goal of your project.
 
-**Project Description**
+##**Project Description**
 
 Provide a brief overview of your school project. Explain what problem it solves, the motivation behind it, and any relevant background information.
 
-**Technologies Used**
+##**Technologies Used**
 
 List the technologies and tools you used in your project. For example:
 
@@ -16,7 +15,7 @@ List the technologies and tools you used in your project. For example:
 - Power BI
 - Any other relevant technologies
 
-**Getting Started**
+##**Getting Started**
 
 Explain how to set up and run your project on a local machine. Include any dependencies that need to be installed and provide step-by-step instructions.
 
@@ -24,7 +23,7 @@ bashCopy code
 
 \# Example of installation commands $ git clone https://github.com/your-username/your-project.git $ cd your-project $ Rscript install\_dependencies.R 
 
-**Usage**
+##**Usage**
 
 Describe how to use your project. Include information about input data, expected outputs, and any user instructions.
 
@@ -32,17 +31,13 @@ RCopy code
 
 \# Example R code snippet # Load the necessary libraries library(ggplot2) # Read the data data <- read.csv("data.csv") # Create a simple plot ggplot(data, aes(x = variable1, y = variable2)) + geom\_point() + labs(title = "Example Plot") 
 
-**Data Sources**
+##**Data Sources**
 
 If applicable, provide information about the data sources you used in your project. Include links or references to the datasets.
 
-**Power BI Dashboard**
+##**Power BI Dashboard**
 
 If you have created a Power BI dashboard, provide a brief overview and include screenshots or GIFs to showcase its functionality.
-
-**Contributing**
-
-If you welcome contributions from others, outline guidelines for contributing to your project. Include information on how to submit bug reports, feature requests, and pull requests.
 
 **License**
 
