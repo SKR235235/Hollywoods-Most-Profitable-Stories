@@ -45,33 +45,22 @@ Navigate to the Microsoft Power BI website (https://powerbi.microsoft.com/).
 Download and install Power BI Desktop.
 Launch Power BI Desktop after installation.
 
-## **Usage**
-
-Describe how to use your project. Include information about input data, expected outputs, and any user instructions.
-
-RCopy code
-
-` \# Example R code snippet # Load the necessary libraries library(ggplot2) # Read the data data <- read.csv("data.csv") # Create a simple plot ggplot(data, aes(x = variable1, y = variable2)) + geom\_point() + labs(title = "Example Plot") `
 
 ## **Data Sources**
 
-If applicable, provide information about the data sources you used in your project. Include links or references to the datasets.
+Source: InformationIsBeautiful.net
+Download data from this link: ​https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv
 
 ## **Power BI Dashboard**
 
-If you have created a Power BI dashboard, provide a brief overview and include screenshots or GIFs to showcase its functionality.
+The Power BI Dashboard for Hollywood Movie Trends offers a comprehensive visual overview. It features elements such as genre-wise average Rotten Tomatoes ratings, an annual trend analysis of movie production, audience scores for individual films, studio-wise profitability, and global box office performance by genre. Additionally, extra cards highlight key metrics like maximum profitability and highest Rotten Tomatoes scores, providing an interactive and insightful exploration of Hollywood movie trends.
 
-## **License**
+The Hollywood Movie Trends Power BI Dashboard combines insightful data with a modern design featuring a sleek black background. Subtle drop shadows add depth, creating a sophisticated and engaging interface. This visually appealing setup ensures an immersive exploration of Hollywood's cinematic landscape, seamlessly blending style with substance.
 
-Specify the license under which your project is distributed. This can help others understand how they can use or contribute to your project.
 
-## **Acknowledgments**
 
-Give credit to any individuals, libraries, or resources that contributed to your project.
 
 ## **Contact**
 
 Provide contact information or ways for users to reach out if they have questions or feedback.
-
-Feel free to customize this template according to the specifics of your project. A well-documented README enhances collaboration and helps users understand and contribute to your project effectively.
 
