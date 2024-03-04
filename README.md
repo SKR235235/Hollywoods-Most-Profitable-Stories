@@ -1,5 +1,6 @@
 # Hollywood
 
+(<img width="1023" alt="Hollywood" src="https://github.com/SKR235235/Wealth-Of-Nations/assets/156097439/9f09426b-aaec-4530-83b8-10ef15f8b845">)
 
 A concise and descriptive title that reflects the main purpose or goal of your project.
 
