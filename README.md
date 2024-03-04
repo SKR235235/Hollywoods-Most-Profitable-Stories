@@ -3,7 +3,7 @@
 
 A concise and descriptive title that reflects the main purpose or goal of your project.
 
-##Project Description
+## Project Description
 
 Provide a brief overview of your school project. Explain what problem it solves, the motivation behind it, and any relevant background information.
 
