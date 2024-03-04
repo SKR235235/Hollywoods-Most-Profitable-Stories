@@ -29,7 +29,7 @@ Describe how to use your project. Include information about input data, expected
 
 RCopy code
 
-\# Example R code snippet # Load the necessary libraries library(ggplot2) # Read the data data <- read.csv("data.csv") # Create a simple plot ggplot(data, aes(x = variable1, y = variable2)) + geom\_point() + labs(title = "Example Plot") 
+' \# Example R code snippet # Load the necessary libraries library(ggplot2) # Read the data data <- read.csv("data.csv") # Create a simple plot ggplot(data, aes(x = variable1, y = variable2)) + geom\_point() + labs(title = "Example Plot") '
 
 ## **Data Sources**
 
